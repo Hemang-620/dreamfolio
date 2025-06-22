@@ -1,0 +1,1 @@
+function Resume() { return <div className='p-10'>Resume Page</div>; } export default Resume;

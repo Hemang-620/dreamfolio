@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0d0d0d;
+  color: #d4af37;
+  background-image: url('/stars-bg.png');
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Cinzel', serif;
+}
